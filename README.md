@@ -41,7 +41,7 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 
 ## 🔗 Links
 
-> ## Checkout the Website [Web Application](https://ayush-kanduri.github.io/𝐂𝐚𝐭𝐜𝐡-𝐌𝐞-𝐈𝐟-𝐘𝐨𝐮-𝐂𝐚𝐧/)
+> ## Checkout the Website [Web Application](https://ayush-kanduri.github.io/Catch-Me-If-You-Can/)
 
  <br/>
 
